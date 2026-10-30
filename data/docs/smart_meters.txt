@@ -1,0 +1,23 @@
+Smart Meters and Electricity Basics
+
+A smart meter is an electronic device that measures how much electricity a household or business consumes, in kilowatt-hours (kWh), and sends this reading automatically to the utility company. Unlike old mechanical meters, smart meters record usage at short intervals, such as every 15 or 30 minutes, which removes the need for manual meter reading and allows accurate billing.
+
+Peak and Off-Peak Demand
+
+Electricity demand is not constant through the day. In most Indian households the evening peak occurs between 6 PM and 10 PM, when lighting, cooking, air conditioners and televisions run together. Demand is lowest late at night and in the early morning. Utilities must keep extra generation ready for the peak, which is expensive.
+
+Time-of-Day Tariff
+
+A time-of-day (ToD) tariff charges different prices for electricity depending on the hour. Units consumed during peak hours cost more, while units consumed during off-peak hours cost less. Smart meters make ToD tariffs possible because they record when the energy was used, not only how much.
+
+Load Shifting and Saving Money
+
+Households can reduce their electricity bill by moving flexible loads to off-peak hours. Running a washing machine, water heater or electric vehicle charger late at night instead of in the evening is called load shifting. Using energy-efficient appliances such as LED bulbs and 5-star rated air conditioners also lowers consumption.
+
+Power Factor
+
+Power factor is the ratio of real power, which does useful work, to apparent power supplied by the grid. A low power factor means more current is drawn for the same useful work, causing higher losses in cables and transformers. Industrial consumers are often charged a penalty for poor power factor and use capacitor banks to improve it.
+
+Load Forecasting
+
+Utilities use load forecasting to predict future electricity demand. Forecasts use historical consumption, time of day, day of week, weather and season. Accurate forecasts help utilities schedule generation, buy power at lower prices and avoid blackouts. Common models include linear regression, random forests and neural networks.

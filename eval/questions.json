@@ -1,0 +1,22 @@
+[
+  {"question": "What does a smart meter measure?", "keyword": "kilowatt-hours"},
+  {"question": "How often do smart meters record usage?", "keyword": "30 minutes"},
+  {"question": "Why do smart meters remove the need for manual reading?", "keyword": "manual meter reading"},
+  {"question": "When is the evening peak demand period?", "keyword": "6 PM"},
+  {"question": "When is electricity demand lowest?", "keyword": "early morning"},
+  {"question": "Why do utilities need extra generation?", "keyword": "extra generation"},
+  {"question": "What is a time-of-day tariff?", "keyword": "time-of-day"},
+  {"question": "Why do smart meters make ToD tariffs possible?", "keyword": "when the energy was used"},
+  {"question": "How can households reduce their electricity bill?", "keyword": "load shifting"},
+  {"question": "Which appliances can be run at off-peak hours?", "keyword": "washing machine"},
+  {"question": "Which appliances lower consumption?", "keyword": "LED bulbs"},
+  {"question": "What is power factor?", "keyword": "apparent power"},
+  {"question": "What problems does a low power factor cause?", "keyword": "higher losses"},
+  {"question": "How do industries improve power factor?", "keyword": "capacitor banks"},
+  {"question": "Who is charged a penalty for poor power factor?", "keyword": "penalty"},
+  {"question": "Why do utilities use load forecasting?", "keyword": "schedule generation"},
+  {"question": "What data is used for load forecasting?", "keyword": "day of week"},
+  {"question": "Which models are used for load forecasting?", "keyword": "random forests"},
+  {"question": "How can accurate forecasts help utilities?", "keyword": "avoid blackouts"},
+  {"question": "What is the difference between peak and off-peak prices?", "keyword": "cost less"}
+]

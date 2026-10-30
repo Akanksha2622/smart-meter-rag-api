@@ -1,0 +1,7 @@
+fastapi
+httpx
+chromadb
+pypdf
+groq
+pydantic
+pytest
